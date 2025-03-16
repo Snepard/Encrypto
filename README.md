@@ -1,8 +1,38 @@
-# React + Vite
+# 🔒 Encrypto:  
+**Stay Encrypted, Stay Safe...**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Encrypto is a secure and efficient password manager designed to store all your passwords locally. With a sleek UI and robust performance, Encrypto ensures your sensitive data stays safe and easily accessible.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack:
+- Built with **Vite + React**
+- Data stored **locally** for enhanced privacy  
+
+---
+
+## 🛠️ How to Run:
+1️⃣ Clone the repository  
+2️⃣ Install dependencies:  
+```bash
+npm install
+```
+3️⃣ Run the development server:  
+```bash
+npm run dev
+```
+4️⃣ Click on the localhost link to access Encrypto  
+
+---
+
+## 🔥 Features:
+✅ Lightweight and Fast  
+✅ Secure Local Storage  
+✅ User-friendly Interface  
+✅ Instant Access to Saved Passwords  
+
+---
+
+> **Your passwords, your control.**  
+> Stay secure with **Encrypto**.  
+
